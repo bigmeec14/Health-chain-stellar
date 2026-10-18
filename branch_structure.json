@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1481-lifebank-temperature-report-excursion-to",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1481-lifebank-temperature-report-excursion-to": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1481-lifebank-temperature-report-excursion-to",
+    "origin"
+  ]
+}
